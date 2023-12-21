@@ -1,0 +1,12 @@
+<table border=1 width="50%" bgcolor="blue">
+<tr align="center">
+<td><a href="#">Hola</a></td>
+<td><a href="#">Hola</a></td>
+<td><a href="#">Hola</a></td>
+</tr>
+</table>
+
+
+<audio controls>
+    <source src="musica.mp3" type="audio/mp3">
+</audio>
